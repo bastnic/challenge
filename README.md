@@ -1,6 +1,6 @@
 #Knowledge Plaza Front-End Challenge
 
-Knowledge Plaza, a fun Belgian startup, is looking for talents to join the team and help build the best social network for companies. Want to join? Let's try this little challenge!
+[Knowledge Plaza](http://www.knowledgeplaza.net/), a fun Belgian startup, is looking for talents to join the team and help build the best social network for companies. Want to join? Let's try this little challenge!
 
 The goal of this challenge is to learn, to have fun and to test if you would have fun working at Knowledge Plaza. If you apply for a Junior position, the code you will write is a lot less important than the way you approach an unknown problem.
 
